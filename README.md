@@ -1,7 +1,7 @@
 # surveycto-textaudit-duration
 Python script that merges text audit data and outputs an an easy-to-interpret excel file containing duration information of questions in your survey instrument. 
 
-##Inputs
+## Inputs
 
 The script takes the following as inputs;
 1. Survey instrument (in excel format)
@@ -9,7 +9,7 @@ The script takes the following as inputs;
 3. Text audit data (in media folder)
 4. Output file name
 
-##Output
+## Output
 The script outputs an excel file containing timing information for questions and modules in a survey.
 
 #Instructions
