@@ -12,7 +12,7 @@ The script takes the following as inputs;
 ## Output
 The script outputs an excel file containing timing information for questions and modules in a survey.
 
-#Instructions
+## Instructions
 1. Set path to all the inputs of the script.
 2. Run the script.
 
